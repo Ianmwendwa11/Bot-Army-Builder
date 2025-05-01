@@ -5,7 +5,7 @@ const BotCollection = ({ handleEnlist }) => {
   const [bots, setBots] = useState([]);
 
   useEffect(() => {
-    fetch('http://localhost:8001/bots')
+    fetch('http://localhost:10000/bots')
       .then(res => {
         if (!res.ok) {
           throw new Error('Network response was not ok');
@@ -33,4 +33,3 @@ const BotCollection = ({ handleEnlist }) => {
 };
 
 export default BotCollection;
-    
