@@ -5,7 +5,7 @@ const BotCollection = ({ handleEnlist }) => {
   const [bots, setBots] = useState([]);
 
   useEffect(() => {
-    fetch('http://localhost:10000/bots')
+    fetch('https://bot-army-builder.onrender.com/bots')
       .then(res => {
         if (!res.ok) {
           throw new Error('Network response was not ok');
