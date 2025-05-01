@@ -1,0 +1,275 @@
+{
+    "bots": [
+      {
+        "id": 1,
+        "name": "AlphaBot",
+        "class": "Assault",
+        "health": 100,
+        "damage": 20,
+        "armor": 50,
+        "avatar_url": "https://robohash.org/alpha"
+      },
+      {
+        "id": 2,
+        "name": "BetaBot",
+        "class": "Defender",
+        "health": 120,
+        "damage": 15,
+        "armor": 80,
+        "avatar_url": "https://robohash.org/beta"
+      },
+      {
+        "id": 3,
+        "name": "GammaBot",
+        "class": "Sniper",
+        "health": 80,
+        "damage": 35,
+        "armor": 40,
+        "avatar_url": "https://robohash.org/gamma"
+      },
+      {
+        "id": 4,
+        "name": "DeltaBot",
+        "class": "Engineer",
+        "health": 110,
+        "damage": 18,
+        "armor": 60,
+        "avatar_url": "https://robohash.org/delta"
+      },
+      {
+        "id": 5,
+        "name": "EpsilonBot",
+        "class": "Medic",
+        "health": 95,
+        "damage": 10,
+        "armor": 40,
+        "avatar_url": "https://robohash.org/epsilon"
+      },
+      {
+        "id": 6,
+        "name": "ZetaBot",
+        "class": "Assault",
+        "health": 120,
+        "damage": 25,
+        "armor": 55,
+        "avatar_url": "https://robohash.org/zeta"
+      },
+      {
+        "id": 7,
+        "name": "EtaBot",
+        "class": "Defender",
+        "health": 140,
+        "damage": 12,
+        "armor": 90,
+        "avatar_url": "https://robohash.org/eta"
+      },
+      {
+        "id": 8,
+        "name": "ThetaBot",
+        "class": "Sniper",
+        "health": 75,
+        "damage": 40,
+        "armor": 35,
+        "avatar_url": "https://robohash.org/theta"
+      },
+      {
+        "id": 9,
+        "name": "IotaBot",
+        "class": "Engineer",
+        "health": 105,
+        "damage": 20,
+        "armor": 70,
+        "avatar_url": "https://robohash.org/iota"
+      },
+      {
+        "id": 10,
+        "name": "KappaBot",
+        "class": "Medic",
+        "health": 85,
+        "damage": 15,
+        "armor": 45,
+        "avatar_url": "https://robohash.org/kappa"
+      },
+      {
+        "id": 11,
+        "name": "LambdaBot",
+        "class": "Assault",
+        "health": 110,
+        "damage": 22,
+        "armor": 50,
+        "avatar_url": "https://robohash.org/lambda"
+      },
+      {
+        "id": 12,
+        "name": "MuBot",
+        "class": "Defender",
+        "health": 130,
+        "damage": 18,
+        "armor": 85,
+        "avatar_url": "https://robohash.org/mu"
+      },
+      {
+        "id": 13,
+        "name": "NuBot",
+        "class": "Sniper",
+        "health": 70,
+        "damage": 45,
+        "armor": 30,
+        "avatar_url": "https://robohash.org/nu"
+      },
+      {
+        "id": 14,
+        "name": "XiBot",
+        "class": "Engineer",
+        "health": 115,
+        "damage": 25,
+        "armor": 65,
+        "avatar_url": "https://robohash.org/xi"
+      },
+      {
+        "id": 15,
+        "name": "OmicronBot",
+        "class": "Medic",
+        "health": 90,
+        "damage": 20,
+        "armor": 50,
+        "avatar_url": "https://robohash.org/omicron"
+      },
+      {
+        "id": 16,
+        "name": "PiBot",
+        "class": "Assault",
+        "health": 125,
+        "damage": 28,
+        "armor": 60,
+        "avatar_url": "https://robohash.org/pi"
+      },
+      {
+        "id": 17,
+        "name": "RhoBot",
+        "class": "Defender",
+        "health": 145,
+        "damage": 10,
+        "armor": 95,
+        "avatar_url": "https://robohash.org/rho"
+      },
+      {
+        "id": 18,
+        "name": "SigmaBot",
+        "class": "Sniper",
+        "health": 85,
+        "damage": 50,
+        "armor": 20,
+        "avatar_url": "https://robohash.org/sigma"
+      },
+      {
+        "id": 19,
+        "name": "TauBot",
+        "class": "Engineer",
+        "health": 120,
+        "damage": 22,
+        "armor": 75,
+        "avatar_url": "https://robohash.org/tau"
+      },
+      {
+        "id": 20,
+        "name": "UpsilonBot",
+        "class": "Medic",
+        "health": 100,
+        "damage": 18,
+        "armor": 60,
+        "avatar_url": "https://robohash.org/upsilon"
+      },
+      {
+        "id": 21,
+        "name": "AuroraBot",
+        "class": "Scout",
+        "health": 70,
+        "damage": 25,
+        "armor": 30,
+        "avatar_url": "https://robohash.org/aurora"
+      },
+      {
+        "id": 22,
+        "name": "NebulaBot",
+        "class": "Support",
+        "health": 100,
+        "damage": 12,
+        "armor": 70,
+        "avatar_url": "https://robohash.org/nebula"
+      },
+      {
+        "id": 23,
+        "name": "VortexBot",
+        "class": "Saboteur",
+        "health": 85,
+        "damage": 35,
+        "armor": 50,
+        "avatar_url": "https://robohash.org/vortex"
+      },
+      {
+        "id": 24,
+        "name": "EchoBot",
+        "class": "Recon",
+        "health": 65,
+        "damage": 45,
+        "armor": 25,
+        "avatar_url": "https://robohash.org/echo"
+      },
+      {
+        "id": 25,
+        "name": "ZenithBot",
+        "class": "Elite",
+        "health": 150,
+        "damage": 10,
+        "armor": 100,
+        "avatar_url": "https://robohash.org/zenith"
+      },
+      {
+        "id": 26,
+        "name": "RagnarokBot",
+        "class": "Berserker",
+        "health": 200,
+        "damage": 50,
+        "armor": 20,
+        "avatar_url": "https://robohash.org/ragnarok"
+      },
+      {
+        "id": 27,
+        "name": "TitanBot",
+        "class": "Titan",
+        "health": 250,
+        "damage": 40,
+        "armor": 150,
+        "avatar_url": "https://robohash.org/titan"
+      },
+      {
+        "id": 28,
+        "name": "PhantomBot",
+        "class": "Stealth",
+        "health": 60,
+        "damage": 60,
+        "armor": 10,
+        "avatar_url": "https://robohash.org/phantom"
+      },
+      {
+        "id": 29,
+        "name": "WardenBot",
+        "class": "Guard",
+        "health": 180,
+        "damage": 20,
+        "armor": 120,
+        "avatar_url": "https://robohash.org/warden"
+      },
+      {
+        "id": 30,
+        "name": "CyborgBot",
+        "class": "Cybernetic",
+        "health": 120,
+        "damage": 30,
+        "armor": 90,
+        "avatar_url": "https://robohash.org/cyborg"
+      }
+    ]
+  }
+  
